@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <FactionDef Abstract="True" Name="GnollTribeBase">
+    <colorSpectrum>
+      <li>(0, 0.737, 0.847)</li>
+    </colorSpectrum>
+  </FactionDef>
+  <FactionDef Parent="GnollTribeBase">
+    <defName>GnollTribePlayer</defName>
+    <label>Gnoll Tribe</label>
+    <description>Your very own tribe of gnolls.</description>
+    <isPlayer>true</isPlayer>
+    <basicMemberKind>Gnoll</basicMemberKind>
+    <pawnsPlural>gnolls</pawnsPlural>
+    <settlementNameMaker>NamerSettlementTribal</settlementNameMaker>
+    <playerInitialSettlementNameMaker>NamerInitialSettlementColony</playerInitialSettlementNameMaker>
+    <factionNameMaker>NamerFactionTribal</factionNameMaker>
+    <techLevel>Neolithic</techLevel>
+    <backstoryCategories>
+      <li>Tribal</li>
+    </backstoryCategories>
+    <settlementTexturePath>World/GnollCamp</settlementTexturePath>
+    <factionIconPath>World/GnollCamp</factionIconPath>
+    <startingResearchTags>
+      <li>TribalStart</li>
+    </startingResearchTags>
+    <hairTags>
+      <li>Tribal</li>
+    </hairTags>
+    <apparelStuffFilter>
+      <thingDefs>
+        <li>Cloth</li>
+      </thingDefs>
+    </apparelStuffFilter>
+  </FactionDef>
+</Defs>
