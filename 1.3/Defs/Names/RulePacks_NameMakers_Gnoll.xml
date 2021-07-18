@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <RulePackDef>
+    <defName>NamerPersonGnoll</defName>
+    <rulePack>
+      <rulesStrings>
+        <li>name-&gt;[Gnoll]</li>
+      </rulesStrings>
+      <rulesRaw>
+        <li Class="Rule_File">
+          <keyword>Gnoll</keyword>
+          <path>Gnoll_Names/Gnoll</path>
+        </li>
+      </rulesRaw>
+    </rulePack>
+  </RulePackDef>
+</Defs>
