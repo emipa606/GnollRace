@@ -1,6 +1,6 @@
 # GnollRace
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of Mister Mansons mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1544268433
@@ -8,19 +8,10 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1544268433
 - Adds a gnoll faction
 - Adds a playable gnoll tribal scenario
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
-
-[table]
-    [tr]
-        [td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-        [td]https://github.com/emipa606/GnollRace]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-    [/tr]
-[/table]
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 Chuckly, violent, cannibal-prone hyena folk. Organized in loose tribes, they’re fond of plaguing other settlements for easy meals and materials.
 
@@ -37,7 +28,7 @@ Gnolls hit hard. They punch harder, and have a bite attack too.
 
 Gnolls are brutish. While they’ll complain about eating kibble and sleeping on the floor, they care little of death and destruction. They like meat, no matter where it’s from.
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
