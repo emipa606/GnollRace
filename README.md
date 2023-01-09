@@ -42,3 +42,4 @@ Gnolls are brutish. While they’ll complain about eating kibble and sleeping on
 
 
 
+https://steamcommunity.com/sharedfiles/filedetails/changelog/2288504183]Last updated 2023-01-09
